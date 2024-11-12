@@ -65,7 +65,9 @@ This project is licensed under the MIT License.
 
 ### Contact:
 
+Name : Rani Soni 
 
+Email ID : ranisoni6298@gmail.com
 
 ### Acknowledgments:
 
